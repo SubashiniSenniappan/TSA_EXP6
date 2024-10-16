@@ -108,6 +108,10 @@ print(f"Mean: {mean_value:.2f}, Standard Deviation: {std_value:.2f}")
 ### OUTPUT:
 ![image](https://github.com/user-attachments/assets/8077f1a7-89ae-4aae-87c4-9bfdd18a1ea7)
 ![image](https://github.com/user-attachments/assets/a666358b-c6b6-44e2-9b5d-e2940c115944)
+![Screenshot 2024-10-16 131432](https://github.com/user-attachments/assets/748e0325-f656-454b-9e57-77a4130750b8)
+![image](https://github.com/user-attachments/assets/a0ddd2b9-723a-40f2-bcd6-5daeadb6ae2e)
+
+![Screenshot 2024-10-16 131544](https://github.com/user-attachments/assets/398a2bb9-1a7d-4042-9aa3-b813e6ae2409)
 
 
 
